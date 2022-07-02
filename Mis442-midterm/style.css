@@ -1,0 +1,16 @@
+.nav-clr{
+    background: #f1fff0;
+}
+.mid-container{
+    display: flex;
+    background: #f1fff0;
+}
+.mid-container .card-body{
+    background: #f1fff0;
+}
+.trdcontainer .card-body:hover {
+    background-color: white;
+}
+.trdcontainer .card{
+    border-radius: 8%;
+}
