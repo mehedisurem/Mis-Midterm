@@ -5,7 +5,7 @@
     display: flex;
     background: #f1fff0;
 }
-.mid-container .card-body{
+.trdcontainer .card-body{
     background: #f1fff0;
 }
 .trdcontainer .card-body:hover {
